@@ -8,7 +8,7 @@ namespace EnumerationExercise1
 {
     class Program
     {
-        //some changes to test git push
+        //some changes more to test git push
         static void Main(string[] args)
         {
         }
