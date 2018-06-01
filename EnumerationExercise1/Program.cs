@@ -11,11 +11,15 @@ namespace EnumerationExercise1
         //some changes more to test git push
         static void Main(string[] args)
         {
-            var väri1 = (Colours)1;
+            var väri1 = (ColoursWithOutFlags)1;
 
-            Console.WriteLine("väriyhdistelmät:");
+            Console.WriteLine("väriyhdistelmät ilman Flags:eja:");
             for (int val = 0; val <= 16; val++)
-                Console.WriteLine("{0,3} - {1:G}", val, (Colours)val);
+                Console.WriteLine("{0,3} - {1:G}", val, (ColoursWithOutFlags)val);
+
+            Console.WriteLine("väriyhdistelmät Flags:ien kanssa:");
+            for (int val = 0; val <= 16; val++)
+                Console.WriteLine("{0,3} - {1:G}", val, (ColoursWithFlags)val);
 
             Console.WriteLine();
 
