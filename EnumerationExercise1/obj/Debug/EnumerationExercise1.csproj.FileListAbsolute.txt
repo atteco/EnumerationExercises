@@ -1,2 +1,13 @@
 C:\Users\atte\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\EnumerationExercise1.exe.config
 C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\EnumerationExercise1.exe.config
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\EnumerationExercise1.exe
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\EnumerationExercise1.pdb
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\mscorlib.dll
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\normidna.nlp
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\normnfc.nlp
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\normnfd.nlp
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\normnfkc.nlp
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\bin\Debug\normnfkd.nlp
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\obj\Debug\EnumerationExercise1.csprojResolveAssemblyReference.cache
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\obj\Debug\EnumerationExercise1.exe
+C:\Users\attcol102\Source\Repos\EnumerationExercises\EnumerationExercise1\obj\Debug\EnumerationExercise1.pdb

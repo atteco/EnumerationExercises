@@ -11,6 +11,11 @@ namespace EnumerationExercise1
         //some changes more to test git push
         static void Main(string[] args)
         {
+            var x = Days.ke;
+
+            Console.WriteLine(x);
+
+            Console.ReadLine();
         }
     }
 }
