@@ -28,6 +28,12 @@ namespace EnumerationExercise1
 
             Console.WriteLine("\nväri numero {0} ColoursWithOutFlags enumeraatiosta: {1} ", värinumero, väri );
 
+            Console.WriteLine("\nvärit ColoursWithFlags:sta foreach:lla: ");
+            foreach(var item in Enum.GetValues(typeof(ColoursWithFlags)))
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadLine();
         
         }
